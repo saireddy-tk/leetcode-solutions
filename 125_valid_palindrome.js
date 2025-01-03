@@ -1,6 +1,6 @@
 /**
  * @param {string} s
- * @return {boolean}
+ * @returns {boolean}
  */
 
 function isPalindrome(s) {

@@ -2,7 +2,7 @@
  *
  * @param {number[]} players
  * @param {number[]} trainers
- * @return {number}
+ * @returns {number}
  */
 
 function matchPlayersAndTrainers(players, trainers) {

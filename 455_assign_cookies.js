@@ -1,7 +1,7 @@
 /**
  * @param {number[]} g
  * @param {number[]} s
- * @return {number}
+ * @returns {number}
  */
 
 function findContentChildren(g, s) {

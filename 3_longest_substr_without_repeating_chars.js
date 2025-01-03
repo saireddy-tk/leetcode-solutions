@@ -1,6 +1,6 @@
 /**
  * @param {string} s
- * @return {number}
+ * @returns {number}
  */
 
 function lengthOfLongestSubstring(s) {

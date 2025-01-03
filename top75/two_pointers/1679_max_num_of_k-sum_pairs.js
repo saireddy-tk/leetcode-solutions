@@ -1,7 +1,7 @@
 /**
  * @param {number[]} nums
  * @param {number} k
- * @return {number}
+ * @returns {number}
  */
 function maxOperations(nums, k) {
   let left = 0;

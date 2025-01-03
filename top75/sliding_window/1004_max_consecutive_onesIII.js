@@ -2,7 +2,7 @@
  *
  * @param {number[]} nums
  * @param {number} k
- * @return {number}
+ * @returns {number}
  */
 
 function longestOnes(nums, k) {

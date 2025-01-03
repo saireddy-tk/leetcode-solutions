@@ -1,6 +1,6 @@
 /**
  * @param {number[]} prices
- * @return {number}
+ * @returns {number}
  */
 
 function maxProfit(prices) {

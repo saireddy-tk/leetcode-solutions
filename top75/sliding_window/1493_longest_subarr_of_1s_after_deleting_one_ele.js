@@ -1,7 +1,7 @@
 /**
  *
  * @param {number[]} nums
- * @return {number}
+ * @returns {number}
  */
 
 function longestSubarray(nums) {}

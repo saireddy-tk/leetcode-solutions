@@ -1,6 +1,6 @@
 /**
  * @param {string[]} strs
- * @return {string[][]}
+ * @returns {string[][]}
  */
 function groupAnagrams(strs) {
   const result = new Map();

@@ -1,7 +1,7 @@
 /**
  * @param {string} s
  * @param {number} k
- * @return {number}
+ * @returns {number}
  */
 function characterReplacement(s, k) {
   const hash = {};

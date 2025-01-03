@@ -1,7 +1,7 @@
 /**
  * @param {string} s
  * @param {number} repeatLimit
- * @return {string}
+ * @returns {string}
  */
 
 function repeatLimitedString(s, repeatLimit) {

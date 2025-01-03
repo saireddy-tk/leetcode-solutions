@@ -1,6 +1,6 @@
 /**
  * @param {string} s
- * @return {string}
+ * @returns {string}
  */
 function longestPalindrome(s) {
   const strLen = s.length;

@@ -1,6 +1,6 @@
 /**
  * @param {number} n
- * @return {string[]}
+ * @returns {string[]}
  */
 
 function generateParenthesis(n) {
