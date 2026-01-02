@@ -8,7 +8,7 @@
 function subarraySum(nums, k) {
   let sum = 0;
   let result = 0;
-  const hash = { 0: 1 }; // to consider sub arr one ele might be equal to k
+  const hash = { 0: 1 }; // to consider sub arr starting ele might be equal to k
 
   for (let i = 0; i < nums.length; i++) {
     sum = sum + nums[i];

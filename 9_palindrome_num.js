@@ -4,7 +4,7 @@
  */
 
 function isPalindrome(x) {
-  x = String(x);
+  const x = String(x);
   let left = 0;
   let right = x.length - 1;
 
